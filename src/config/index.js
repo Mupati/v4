@@ -1,38 +1,35 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
+  siteTitle: 'Kofi Obrasi Ocran | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Kofi Obrasi Ocran is a Software Engineer based in Accra, Ghana who specializes in builing exceptional, high-quality websites and applications. He is a budding data scientist',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Kofi Obrasi Ocran, Kofi, Obrasi, mupati, software engineer, front-end engineer, web developer, javascript, accra',
+  siteUrl: 'https://mupati.devcodes.co',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: 'UA-131436918-1',
+  googleVerification: 'Rp9VlvZsqbp3ytslgNr2JwQS_F8sc2rmSh3n7wgyFns',
+  name: 'Kofi Obrasi Ocran',
+  location: 'Accra, GH',
+  email: 'ocran.obrasi@gmail.com',
+  github: 'https://github.com/mupati',
+  twitterHandle: '@kofi_mupati',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/mupati',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/kofiobrasiocran',
     },
+
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      name: 'Blog',
+      url: 'https://www.devcodes.co',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/kofi_mupati',
     },
   ],
 
