@@ -7,7 +7,9 @@ range: 'October 2018 - Now'
 url: 'https://www.ek-brandconsult.com'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- I oversee the development, deployment and maintenance of all applications and servers.
+- I built a Flight Search and Booking Engine with Amadeus API.
+- I fixed all bugs on the company’s marketing application (Syde Hassle) to reduce the estimated time to market.
+- I trained interns who were new to web development to build websites within 2 months and coordinate with the remote developer to execute projects.
+- I built and maintain the E-commerce platform on the company’s clients’ portal.
+- I reduced the time used to deploy WordPress sites to DigitalOcean server used by the company by 90% using an automation script.

@@ -1,5 +1,5 @@
 ---
-date: '6'
+date: '7'
 title: 'Peg Dashboard'
 github: 'https://github.com/Mupati/weather-underground-quiz'
 external: 'https://mupati.pythonanywhere.com'

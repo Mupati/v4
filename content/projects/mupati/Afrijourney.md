@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '8'
 title: 'Afrijourney Tours'
 github: 'https://bitbucket.com'
 external: 'https://afrijourney.ek-brandconsult.com'
