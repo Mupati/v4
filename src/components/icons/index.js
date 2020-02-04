@@ -12,6 +12,7 @@ import IconStar from './star';
 import IconFork from './fork';
 import IconZap from './zap';
 import FormattedIcon from './formattedIcon';
+import IconMupati from './mupati';
 
 export {
   IconLoader,
@@ -28,4 +29,5 @@ export {
   IconFork,
   IconZap,
   FormattedIcon,
+  IconMupati,
 };

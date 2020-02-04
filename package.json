@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "personal-website",
+  "description": "Personal Website Forked From Brittany Chiang",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Kofi Obrasi Ocran <scientificgh@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/Mupati/v4"
   },
   "keywords": [
     "gatsby"
@@ -38,6 +38,7 @@
     "animejs": "^3.1.0",
     "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.18.7",
+    "gatsby-cli": "^2.8.29",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-google-analytics": "^2.1.29",
     "gatsby-plugin-manifest": "^2.2.31",
@@ -54,6 +55,7 @@
     "gatsby-source-filesystem": "^2.1.40",
     "gatsby-transformer-remark": "^2.6.39",
     "gatsby-transformer-sharp": "^2.3.7",
+    "global": "^4.4.0",
     "lodash": "^4.17.15",
     "prismjs": "^1.17.1",
     "prop-types": "^15.7.2",

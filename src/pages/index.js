@@ -63,7 +63,7 @@ export const pageQuery = graphql`
       }
     }
     jobs: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/jobs/" } }
+      filter: { fileAbsolutePath: { regex: "/jobs/mupati/" } }
       sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {
@@ -104,7 +104,7 @@ export const pageQuery = graphql`
     }
     projects: allMarkdownRemark(
       filter: {
-        fileAbsolutePath: { regex: "/projects/" }
+        fileAbsolutePath: { regex: "/projects/mupati/" }
         frontmatter: { showInProjects: { ne: false } }
       }
       sort: { fields: [frontmatter___date], order: DESC }

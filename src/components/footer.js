@@ -127,7 +127,7 @@ const Footer = () => {
           href="https://github.com/bchiang7/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Forked from Brittany Chiang</div>
+          <div>My current Portfolio is Forked from Brittany Chiang.</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>

@@ -105,8 +105,8 @@ const ArchivePage = ({ location, data }) => {
 
       <StyledMainContainer>
         <header ref={revealTitle}>
-          <h1 className="big-title">Archive</h1>
-          <p className="subtitle">A big list of things I’ve worked on</p>
+          <h1 className="big-title">Project History</h1>
+          <p className="subtitle">A list of most of the projects I've ever worked on</p>
         </header>
 
         <StyledTableContainer ref={revealTable}>
@@ -135,7 +135,8 @@ const ArchivePage = ({ location, data }) => {
                       </td>
 
                       <td className="tech hide-on-mobile">
-                        {tech.length > 0 &&
+                        {tech &&
+                          tech.length > 0 &&
                           tech.map((item, i) => (
                             <span key={i}>
                               <span key={i}>{item}</span>
@@ -191,7 +192,7 @@ export const pageQuery = graphql`
   {
     allMarkdownRemark(
       filter: {
-        fileAbsolutePath: { regex: "/projects/" }
+        fileAbsolutePath: { regex: "/projects/mupati/" }
         frontmatter: { showInProjects: { ne: false } }
       }
       sort: { fields: [frontmatter___date], order: DESC }
