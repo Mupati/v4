@@ -8,6 +8,7 @@ import {
   IconTwitter,
   IconStar,
   IconFork,
+  IconDefault,
 } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
@@ -115,7 +116,7 @@ const Footer = () => {
                   ) : name === 'Twitter' ? (
                     <IconTwitter />
                   ) : (
-                    <IconGitHub />
+                    <IconDefault />
                   )}
                 </StyledSocialLink>
               </li>

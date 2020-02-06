@@ -46,8 +46,8 @@ const StyledLogo = styled.div`
   a {
     display: block;
     color: ${colors.green};
-    width: 100px;
-    // height: 42px;
+    width: 200px;
+    height: 100px;
     &:hover,
     &:focus {
       svg {
@@ -55,7 +55,7 @@ const StyledLogo = styled.div`
       }
     }
     svg {
-      // fill: none;
+      fill: none;
       transition: ${theme.transition};
       user-select: none;
     }
