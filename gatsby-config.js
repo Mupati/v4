@@ -13,19 +13,19 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: 'KofiObrasiOcran',
-        short_name: 'KofiObrasiOcran',
-        start_url: '/',
-        background_color: config.darkNavyColor,
-        theme_color: config.navyColor,
-        display: 'standalone',
-        icon: 'src/images/logo.png',
-      },
-    },
-    `gatsby-plugin-offline`,
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: 'KofiObrasiOcran',
+    //     short_name: 'KofiObrasiOcran',
+    //     start_url: '/',
+    //     background_color: config.darkNavyColor,
+    //     theme_color: config.navyColor,
+    //     display: 'standalone',
+    //     icon: 'src/images/logo.png',
+    //   },
+    // },
+    // `gatsby-plugin-offline`,
     {
       resolve: 'gatsby-source-filesystem',
       options: {
