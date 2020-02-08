@@ -14,4 +14,4 @@ tech:
 showInProjects: true
 ---
 
-A Portal for generation of Client projects ranging from Ecommerce, Websites and any other applications. Clients use this Portal to send their requests to [Ek Brand Consult](https://www.ek-brandconsult.com).
+This is my personal blog. The second and major project using the JAMSTACK. It was exciting working with [Storyblok](https://storyblok.com) since they have a visual editor which makes it awesome when updating content.
