@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Kofi Obrasi Ocran | Software Engineer',
   siteDescription:
-    'Kofi Obrasi Ocran is a Software Engineer based in Accra, Ghana who specializes in builing exceptional, high-quality websites and applications. He is a budding data scientist',
+    'Kofi Obrasi Ocran is a Software Engineer based in Accra, Ghana who specializes in builing exceptional, high-quality websites and applications',
   siteKeywords:
     'Kofi Obrasi Ocran, Kofi, Obrasi, mupati, software engineer, front-end engineer, web developer, javascript, accra',
   siteUrl: 'https://mupati.devcodes.co',
@@ -25,7 +25,7 @@ module.exports = {
 
     {
       name: 'Blog',
-      url: 'https://www.devcodes.co',
+      url: 'https://www.devcodes.co/articles/software',
     },
     {
       name: 'Twitter',
