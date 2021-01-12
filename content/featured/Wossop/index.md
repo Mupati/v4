@@ -1,16 +1,14 @@
 ---
-date: '7'
-title: 'Flyezi'
-cover: './flyezi.png'
-github: 'https://bitbucket.org/ek-brandconsult/flyezi'
-external: 'https://flyezi-dev.ek-brandconsult.com/'
+date: '9'
+title: 'Wossop'
+cover: './wossop.png'
+github: '#'
+external: 'https://wossop.netlify.app'
 tech:
-  - VueJs
-  - NodeJs
-  - Amadeus Self-Service API
-  - Serverless (Firebase Functions)
-  - OAuth
-  - Postmark
+  - VueJs (Quasar Framework)
+  - Laravel API
+  - WebRTC
+  - Pusher (Web sockets)
 showInProjects: true
 ---
 

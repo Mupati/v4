@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '8'
 title: 'Personal Blog'
 cover: './devcodes-blog.png'
 github: 'https://github.com/mupati/gatsby-storyblok'

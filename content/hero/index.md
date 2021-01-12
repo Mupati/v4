@@ -1,9 +1,9 @@
 ---
 title: 'Heya, my name is'
 name: 'Kofi Obrasi Ocran'
-subtitle: 'I create value for businesses'
+subtitle: 'Products, Services and Knowledge sharing.'
 contactText: 'Get In Touch'
 ---
 
-I'm a Software Engineer based in Accra, Ghana who creates value for businesses using web technologies.
+I build products and services using web technologies and write technical articles..
 I have extended my domain of interest to data science to increase the value I offer.

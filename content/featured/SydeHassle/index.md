@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '6'
 title: 'SydeHassle'
 cover: './sydehassle.png'
 github: 'https://bitbucket.org/ek-brandconsult/borga'
