@@ -7,7 +7,7 @@ range: 'September 2020 - Now'
 url: 'https://www.collectiveclinic.com'
 ---
 
-- Building the next ubiquitous teleconsultation service.
+- Transforming a hackhaton idea into the next ubiquitous teleconsultation service.
 - Development of product features for collective clinic.
 - Built the messaging feature.
 - I built the custom video chat application with WebRTC technology.

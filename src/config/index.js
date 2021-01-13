@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'Rp9VlvZsqbp3ytslgNr2JwQS_F8sc2rmSh3n7wgyFns',
   name: 'Kofi Obrasi Ocran',
   location: 'Accra, GH',
-  email: 'ocran.obrasi@gmail.com',
+  email: 'scientificgh@gmail.com',
   github: 'https://github.com/mupati',
   twitterHandle: '@kofi_mupati',
   socialMedia: [
@@ -25,7 +25,7 @@ module.exports = {
 
     {
       name: 'Blog',
-      url: 'https://www.devcodes.co/articles/software',
+      url: 'https://dev.to/mupati',
     },
     {
       name: 'Twitter',

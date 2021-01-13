@@ -12,4 +12,5 @@ tech:
 showInProjects: true
 ---
 
-A Flight Search and Booking engine built with [Amadeus' Self-Service REST API](https://developers.amadeus.com/self-service) and the [NodeJS SDK provided](https://amadeus4dev.github.io/amadeus-node/#amadeus). It is built on a Serverless Architecture with Firebase Functions and other Firebase Services.
+A WhatsApp clone with the user interface of the WhatsApp Web.
+It includes one-on-one and group messaging, and one-on-one and group video calls.
