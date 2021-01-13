@@ -10,6 +10,7 @@ tech:
   - WebRTC
   - PayPal Payment Integration
   - Pusher (Web sockets)
+  - AWS (RDS, EC2, S3)
 showInProjects: true
 ---
 
